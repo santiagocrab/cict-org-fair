@@ -56,5 +56,9 @@ app.*.map.json
 # Widget Preview related
 .widget_preview/
 
-# Contentful read token and space id. Copy cms.example.json to cms.json.
+# Release secrets: never commit these (Unit 8)
+# Copy cms.example.json to cms.json and fill in your CMS values locally.
 cms.json
+android/key.properties
+*.jks
+*.keystore

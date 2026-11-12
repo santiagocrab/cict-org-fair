@@ -1,11 +1,11 @@
 {
-    "name": "org_fair",
-    "short_name": "org_fair",
+    "name": "CICT Org Fair",
+    "short_name": "CICT Org Fair",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Browse CICT student organizations and live fair events at West Visayas State University.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
