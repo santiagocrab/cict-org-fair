@@ -84,7 +84,7 @@ class EventTile extends StatelessWidget {
         isThreeLine: true,
         trailing: cancelled
             ? Chip(
-                label: const Text('Canceled'),
+                label: const Text('Cancelled'),
                 visualDensity: VisualDensity.compact,
                 backgroundColor: colors.errorContainer,
                 labelStyle: TextStyle(
